@@ -25,12 +25,12 @@ $ git clone https://github.com/spittis/extra-credit2.git
 $ cd extra-credit2
 ```
 ```
-Open the index.html in a browser, Chrome works best.
+Open the index.html in a browser, Google Chrome works best.
 ```
 
 ## Built With
 
-* Vue JS
+* [Vue.js](https://vuejs.org/) - The JavaScript framework that helps create a more maintainable and testable code base.
 
 
 ## Authors
@@ -44,5 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Continuing With Updates
 
-* The main content (images and text) is stored in a Javascript object, making it simple to change and insert data
-* To update content, one can make changes by changing the image location or text itself in the classData.js file, which will be automatically changed on the index.html
+* Should any information need to be updated, like the price of a model, its picture, or the description of it, information (text or images) can be easily changed on the database.
+* Linking to a different image, video, or changing the copy on a database will in turn be updated on the webpage automatically
