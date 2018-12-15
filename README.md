@@ -31,7 +31,11 @@ Open the index.html in a browser, Google Chrome works best.
 ## Built With
 
 * [Vue.js](https://vuejs.org/) - The JavaScript framework that helps create a more maintainable and testable code base.
-
+* Javascript - used to load content onto the main page
+* Gulp - used to convert SASS to CSS and minify files
+* Sass - used to minimize repetitive CSS and keep styles organized
+* PHP - used to connect to database
+* mySQL - hosts the database that stores images, video, and text for the webpage
 
 ## Authors
 
